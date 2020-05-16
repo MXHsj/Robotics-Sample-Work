@@ -13,3 +13,7 @@
    ### Developing Environment:
    Python + MATLAB for robot higher level (end-effector pose) control and point-cloud processing.
    C++ + ROS for robot lower level (end-effector velocity) control.
+   
+3. ### File Name: Swarm_final_1080p
+   ### Description:
+   This video shows 10 khepera robots traversing through a tunnel environment using cell-lattice formation. The formation control is achieved using Lennard-Jones potential field in a distributed manner. The group size is changing dynamically to maximize the area occupied by the swarm.
